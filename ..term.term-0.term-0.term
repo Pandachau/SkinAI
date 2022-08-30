@@ -1,0 +1,86 @@
+(base) ]0;~/skinAI/space-pythons/app[01;34m~/skinAI/space-pythons/app[00m$ conda activate cv_env
+(cv_env) ]0;~/skinAI/space-pythons/app[01;34m~/skinAI/space-pythons/app[00m$ python3 main.py
+Downloading: "https://github.com/ultralytics/yolov5/archive/master.zip" to /projects/de36e3ca-e864-4752-9301-53d2b1dcb074/.cache/torch/hub/master.zip
+YOLOv5 🚀 2022-8-23 Python-3.8.13 torch-1.11.0+cu102 CPU
+
+Fusing layers... 
+Model summary: 213 layers, 7015519 parameters, 0 gradients
+Adding AutoShape... 
+Try to open
+
+    https://https://cocalc14.ai-camp.dev/de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/
+
+
+ * Serving Flask app 'main'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12345
+ * Running on http://172.17.0.2:12345
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+Downloading: "https://github.com/ultralytics/yolov5/archive/master.zip" to /projects/de36e3ca-e864-4752-9301-53d2b1dcb074/.cache/torch/hub/master.zip
+YOLOv5 🚀 2022-8-23 Python-3.8.13 torch-1.11.0+cu102 CPU
+
+Fusing layers... 
+Model summary: 213 layers, 7015519 parameters, 0 gradients
+Adding AutoShape... 
+Try to open
+
+    https://https://cocalc14.ai-camp.dev/de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 139-736-905
+127.0.0.1 - - [23/Aug/2022 22:25:38] "GET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2022 22:25:38] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/css/style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:38] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/plugins/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:38] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/js/theme.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/suprised.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/logo-3.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/happy-450x450-450x450.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Peter.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/neutral.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/sad.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Sean.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Nitin.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Haziq.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Ritivin.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/bg/6.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/bg/10.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:25:39] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/favicon.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:22] "GET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/css/style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/plugins/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/js/theme.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "GET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/logo-3.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/happy-450x450-450x450.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/neutral.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/sad.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/suprised.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Peter.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Sean.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Nitin.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Ritivin.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Haziq.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/bg/6.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:23] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/bg/10.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:27:24] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/favicon.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:40] "GET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2022 22:29:40] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/css/style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:40] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/js/theme.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:40] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/happy-450x450-450x450.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:40] "GET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/logo-3.png HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2022 22:29:40] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/plugins/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/neutral.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/sad.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Sean.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/suprised.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Peter.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Nitin.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Ritivin.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/bg/10.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[33mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/Haziq.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [23/Aug/2022 22:29:41] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/bg/6.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [23/Aug/2022 22:29:42] "[36mGET /de36e3ca-e864-4752-9301-53d2b1dcb074/port/12345/static/images1/favicon.png HTTP/1.1[0m" 304 -
+(base) ]0;~/skinAI/space-pythons/app[01;34m~/skinAI/space-pythons/app[00m$ 

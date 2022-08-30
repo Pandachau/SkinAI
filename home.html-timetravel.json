@@ -1,0 +1,4940 @@
+[
+  {
+    "time_utc": "2022-08-19T21:20:22.048Z",
+    "account_id": "de36e3ca-e864-4752-9301-53d2b1dcb074",
+    "patch_length": 23123,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-08-19T21:23:14.949Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:23:17.813Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:23:19.303Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:04.183Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 54,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:07.492Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:08.101Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 53,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:08.704Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:09.100Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 70,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:19.789Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:22.291Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:23.617Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:24.424Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-19T21:29:59.930Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:10:28.258Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 95,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:10:31.434Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:13:27.062Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 74,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:13:30.274Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 58,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:13:33.278Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:14:14.430Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 74,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:14:19.234Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:14:20.138Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:14:21.194Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:14:51.845Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 77,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:06.813Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 92,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:07.002Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 95,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:08.534Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 86,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:10.249Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 76,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:13.474Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 94,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:19.573Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 92,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:21.529Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 76,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:26.534Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:31.865Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 77,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:33.801Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 67,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:15:36.921Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:11.854Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 77,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:13.694Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:14.846Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:29.946Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 76,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:30.762Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 59,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:33.570Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:35.566Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:19:36.566Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:20:26.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:20:27.698Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:20:28.902Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:01.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:04.338Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 93,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:05.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:07.094Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:07.282Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 84,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:07.534Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 98,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:09.074Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:15.942Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 98,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:48.582Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 91,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:51.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 87,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:21:53.858Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:17.302Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:17.602Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:17.914Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 91,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:18.218Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:19.606Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 98,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:29.402Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:29.910Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 98,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:30.362Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 91,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:30.938Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 87,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:32.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:36.974Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 107,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:40.026Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:57.746Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 107,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:58.402Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:58.838Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:59.258Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:22:59.622Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 91,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:00.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:01.174Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 98,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:23.794Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:24.674Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:25.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:26.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:28.438Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:29.346Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:31.538Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:35.474Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:38.438Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:41.762Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:47.878Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 84,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:49.850Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:50.146Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:50.574Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:53.814Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 78,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:23:54.638Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 84,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:01.118Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 91,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:06.590Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:11.334Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:14.378Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:50.534Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 105,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:53.990Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:54.942Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:24:58.142Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:25:03.306Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 95,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:25:17.662Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:25:22.294Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:25:54.834Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:25:57.206Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:26:05.150Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 88,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:35:56.874Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 123,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:00.178Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 105,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:03.914Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:31.090Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:31.146Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:35.418Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:45.958Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:53.430Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:36:57.238Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 56,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:40:25.222Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 105,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:40:35.382Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 117,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:40:54.306Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:40:57.118Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T18:40:59.082Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:06.942Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 233,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:14.378Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 76,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:16.578Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:24.818Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 94,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:24.902Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:25.130Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:25.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:25.454Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:25.698Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:25.982Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:29.070Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:31.758Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:00:41.118Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 95,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:00.938Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 130,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:06.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:09.798Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:19.122Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 94,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:22.318Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:23.230Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:25.318Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:01:37.974Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:05:38.710Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 90,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:05:39.798Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:05:54.790Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:05:56.518Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:03.102Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 188,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:04.002Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:06.602Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:13.126Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:19.422Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:22.006Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:22.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:24.790Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 77,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:27.414Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:29.746Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 56,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:33.994Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:49.974Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 168,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:06:52.970Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:00.197Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 84,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:00.374Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:00.557Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:02.197Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:02.374Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:02.630Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:02.738Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:02.922Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:05.093Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:06.237Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:06.414Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:06.666Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:06.722Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 59,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:06.942Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 59,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:14.606Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 186,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:23.937Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 86,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:24.901Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:28.610Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:30.385Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 70,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:30.558Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 74,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:32.998Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:37.378Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:43.026Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 184,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:46.449Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 65,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:46.474Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:48.973Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 80,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:50.882Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:56.145Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:07:59.137Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 70,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:06.661Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:08.922Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 74,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:11.826Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:11.989Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:12.198Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:14.114Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:20.790Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 74,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:22.550Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:30.142Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 188,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:38.558Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 76,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:39.826Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:44.730Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:46.606Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:47.574Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:53.773Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 80,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:53.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 97,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:54.222Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:54.381Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 59,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:54.713Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 59,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:55.033Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 59,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:55.345Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 59,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:08:55.653Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:09:10.722Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 183,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:09:14.226Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:09:55.282Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 598,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:09:57.422Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:09:58.214Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 97,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:09:58.690Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 614,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:02.446Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 78,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:03.362Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:04.518Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:07.606Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:10.910Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:10.950Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:21.442Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:43.854Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:44.842Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:45.762Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 70,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:10:56.270Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:11:00.030Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 70,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:11:03.202Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 76,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:11:06.410Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:11:09.134Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T19:15:36.281Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 78,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:15:38.045Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:15:38.113Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:15:38.581Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:16:17.729Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 80,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:16:29.477Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 81,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T19:16:32.241Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 81,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T20:16:27.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:16:28.662Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:01.894Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:02.818Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:14.198Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:15.478Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:19.854Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:32.718Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:36.066Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:39.838Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:50.830Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:53.806Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:17:56.130Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:34.762Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:36.462Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:37.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:41.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:47.030Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:48.646Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:23:54.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:24:00.262Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:24:02.954Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:24:57.066Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:25:00.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:25:00.062Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:25:00.286Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:25:02.382Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:25:08.450Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 87,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:25:10.874Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:26:53.422Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 158,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:28:33.562Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:28:34.346Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:28:44.550Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 326,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:28:52.062Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:28:58.222Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:29:02.410Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:29:05.226Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:29:07.198Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:29:32.630Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 110,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:29:37.530Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:29:37.582Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 349,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:08.866Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:10.322Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:15.426Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:16.258Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:18.750Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:20.474Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:30.774Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:31.602Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:34.766Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:45.506Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:30:49.346Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:31:19.846Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 2200,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:31:22.498Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:31:27.458Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:31:29.362Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:31:39.198Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:31:59.146Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:02.794Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:03.926Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:19.866Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:25.198Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:26.042Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:57.942Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:32:59.678Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 88,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:16.070Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:16.450Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 87,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:16.798Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:17.150Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:17.518Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:17.774Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:17.962Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:18.150Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:18.330Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:18.514Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:18.698Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:18.898Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 109,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:19.122Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 2216,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:19.322Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:19.558Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:19.770Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:19.994Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:20.222Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:20.442Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:20.650Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:20.846Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:21.034Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:21.218Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:21.406Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:21.598Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 333,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:21.786Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:21.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 86,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:22.178Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:22.374Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 56,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:22.566Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:22.802Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:23.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:23.214Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 325,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:23.406Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:23.610Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:23.822Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 158,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:24.018Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 88,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:24.230Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:24.430Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:24.630Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:24.878Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:24.998Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:25.210Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 87,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:25.338Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:25.546Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 158,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:25.742Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:25.950Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:26.194Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 326,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:26.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:26.610Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:26.830Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:27.142Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:27.354Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:27.718Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 110,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:28.070Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:28.430Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 349,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:29.034Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:29.830Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:30.234Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:30.578Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:30.866Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:31.130Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:31.466Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:31.726Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:31.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:32.198Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:32.442Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:32.682Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 2200,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:32.882Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:33.078Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:33.362Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:33.858Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:34.218Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:34.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:34.586Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:34.774Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:35.018Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:35.226Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:35.602Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:35.834Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 88,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:36.166Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:36.462Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 87,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:36.798Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:37.082Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:37.322Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:37.550Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:37.818Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:38.062Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:38.354Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:38.586Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:38.834Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:39.082Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 109,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:39.346Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 2216,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:39.586Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:39.822Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:40.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:40.358Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:40.578Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:40.830Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:41.074Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:41.326Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:41.554Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:41.766Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:41.998Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:42.222Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 333,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:42.446Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:42.670Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 86,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:42.922Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:43.170Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 56,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:43.466Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:43.730Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:43.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:44.218Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 325,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:44.782Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:45.122Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:45.438Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 158,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:45.710Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 88,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:46.098Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:46.418Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:46.922Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:47.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:47.294Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:47.630Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:47.942Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:48.690Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:49.238Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:49.674Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:50.450Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:50.886Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:51.178Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:51.490Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:52.046Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:52.462Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:52.990Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:53.438Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:53.838Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:54.310Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:56.058Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:33:56.630Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:00.258Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:18.082Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:24.826Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 100,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:25.458Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 109,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:32.990Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 160,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:45.358Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 265,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:34:55.670Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 104,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:35:01.994Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:35:03.678Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:35:04.650Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:35:04.914Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 78,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:36:42.814Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 2094,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:36:45.606Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:37:08.514Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 107,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:37:45.634Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:37:48.278Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 413,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:37:50.294Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 77,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:38:36.766Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 760,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:38:39.594Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:39:10.378Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:39:10.434Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:39:35.462Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:39:40.498Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:05.898Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 526,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:08.314Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:13.974Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:14.250Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 535,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:14.474Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:14.718Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:14.926Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:15.202Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:15.582Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 86,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:16.470Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 776,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:17.078Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 76,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:40:19.410Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 77,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:41:20.162Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 4267,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:41:23.586Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:41:48.398Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:41:48.450Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:42:13.946Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 70,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:42:16.978Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:42:18.066Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:42:30.366Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:43:12.182Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 290,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:43:15.230Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:43:34.370Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:43:35.650Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 299,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:43:41.674Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 290,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:43:42.294Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:10.730Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:11.270Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 299,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:15.058Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:17.958Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:18.986Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:19.042Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:44:19.274Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:47:12.030Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:47:30.462Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T20:54:16.098Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T21:19:49.403Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-22T21:20:09.511Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 255,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-22T21:23:38.142Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 271,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T21:23:45.354Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 74,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T21:23:52.926Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-22T21:30:00.573Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 437,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T21:33:12.893Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 385,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T21:34:07.453Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 335,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-22T21:35:19.649Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 337,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:34:40.025Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 68,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:51:56.253Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 53,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:00.329Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:03.633Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:06.273Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 65,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:09.561Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 52,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:11.029Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:12.585Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:52:18.181Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:53:01.821Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T17:53:04.269Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T18:21:58.066Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:21:59.882Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:25:30.634Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 59,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:25:41.738Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 85,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:25:43.898Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:27:17.550Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 59,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:38:25.926Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:38:31.030Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:38:33.382Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:38:34.506Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:38:35.826Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:03.546Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:06.610Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 63,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:06.650Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:06.886Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:07.154Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:08.066Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:11.174Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:16.810Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:20.210Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:25.506Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:32.010Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:44:59.205Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 70,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T18:45:04.745Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T18:45:15.545Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 67,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T18:45:18.641Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 67,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T18:45:21.841Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:43.159Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:44.503Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:46.899Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 69,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:47.799Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:49.819Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 67,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:51.379Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:47:56.167Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:48:03.135Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:48:04.063Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:48:04.939Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:48:49.703Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:48:59.331Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 69,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:35.999Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 66,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:37.403Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 69,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:39.475Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:42.139Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 65,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:45.263Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 65,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:52.479Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 83,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:49:53.939Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:50:45.479Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 80,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:50:47.251Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:50:50.187Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 83,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:51:02.751Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:51:04.259Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:51:04.907Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:51:05.895Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:51:08.423Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 76,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:04.551Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 83,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:10.135Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 80,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:10.207Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:11.943Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 65,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:13.191Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 65,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:19.671Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 56,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:20.195Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 66,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:20.587Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:21.047Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:52:23.503Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 83,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:53:56.294Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:07.787Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 78,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:15.267Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 77,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:16.871Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:26.155Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 69,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:40.387Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 80,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:50.123Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 92,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:54:52.403Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:00.143Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:13.279Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 92,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:19.579Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:27.403Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 148,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:28.459Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:34.319Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:35.319Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 156,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:41.451Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 68,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:41.979Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:52.527Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:58.447Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 82,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:58.955Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:55:59.735Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 77,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:02.535Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:10.491Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:25.503Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:34.487Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 59,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:39.431Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 67,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:43.787Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 68,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:56:55.123Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:01.755Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 68,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:02.751Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 76,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:03.199Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 59,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:04.183Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 67,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:05.423Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 59,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:05.979Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 69,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:10.227Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 66,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:57:17.163Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 65,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:18.151Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 66,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:33.019Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:34.139Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:36.855Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:37.695Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:39.275Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:54.935Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 73,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:58:55.719Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:59:01.643Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:59:06.023Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 68,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T18:59:07.635Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T19:04:20.401Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 259,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:05:30.709Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 313,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:06:09.838Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T19:06:26.906Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T19:06:31.314Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T19:09:49.165Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 290,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:19:34.057Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 167,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:20:34.141Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 167,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:25:28.477Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 188,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:25:29.369Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 121,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:25:31.057Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 112,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:37:41.497Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 263,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:44:44.257Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 310,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:53:00.041Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 237,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:53:16.657Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 78,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:00.797Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 77,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:05.749Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 79,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:07.945Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:11.897Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 68,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:13.841Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:35.281Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 53,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:54:37.665Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:31.413Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:32.009Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:32.637Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 53,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:33.089Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 58,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:33.785Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:34.281Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 78,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:34.469Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 78,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:35.041Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 77,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:35.801Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 237,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T19:58:42.169Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 379,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:17:42.537Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:17:55.797Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:34:47.249Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:34:48.209Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 59,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:35:20.313Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:35:21.965Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:04.118Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 83,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:05.406Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:07.146Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:14.634Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:31.362Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 53,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:33.694Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 70,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:38:40.762Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:39:06.430Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 77,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:39:56.222Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:39:57.526Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:44:00.990Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:45:45.742Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:45:46.646Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:45:47.770Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T20:50:20.009Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 80,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:50:21.277Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:59:52.033Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 186,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T20:59:55.325Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:00:00.437Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 69,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:00:04.526Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:00:04.858Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:00:05.154Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:01:09.006Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:02:50.905Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 71,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:02:53.221Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:05:26.574Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 67,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:05:41.746Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 59,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:05:45.050Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:05:45.094Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 125,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:01.106Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 107,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:31.521Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 91,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:33.941Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 70,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:35.013Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:37.825Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:39.917Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:41.666Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 140,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:06:45.669Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 65,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:07:30.782Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 103,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:07:31.914Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 61,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:07:51.309Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:07:55.037Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:07:58.202Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:07:59.738Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 79,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:08:15.490Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:08:16.714Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 60,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:08:17.566Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 62,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:08:19.034Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 69,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:12:38.907Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 83,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:12:41.079Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:12:43.135Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 72,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:12:57.307Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:12:59.695Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 83,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:13:00.751Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 72,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:13:15.003Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 72,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:13:15.503Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:13:17.483Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 82,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:13:18.315Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:13:19.787Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 54,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:14:16.495Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 75,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:14:19.171Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:14:22.179Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:14:56.431Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 79,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:14:59.775Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:00.087Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:00.363Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:00.655Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 75,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:03.427Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 75,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:03.567Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:03.727Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:03.891Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 79,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:05.043Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:05.271Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:05.547Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:05.783Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 75,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:32.755Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 204,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:34.683Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:44.007Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:45.523Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:53.279Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 92,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:54.423Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:15:56.491Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:00.019Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:00.247Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 52,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:00.735Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 74,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:00.983Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:01.483Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 64,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:01.563Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 61,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:01.647Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 237,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:01.859Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 75,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:23.731Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 65,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:35.367Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 72,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:37.011Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 71,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:56.803Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 70,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:58.707Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 63,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:16:59.883Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-23T21:18:15.586Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 95,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:24:28.062Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 70,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:24:38.754Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 71,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-23T21:27:34.113Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 105,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:27:42.021Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 114,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:27:51.205Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 73,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:29:50.209Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:29:51.989Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 63,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:39:58.425Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 523,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:41:54.789Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 120,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:41:59.021Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 59,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:55:23.425Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 429,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:58:26.433Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 438,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:59:15.513Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 430,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:59:37.417Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 68,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T21:59:44.213Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 71,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T22:01:24.009Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 62,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T22:01:25.737Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 61,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T22:01:26.657Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 60,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T22:01:28.849Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 64,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T22:08:55.441Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 67,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-23T22:09:03.525Z",
+    "account_id": "8913c21e-12e2-44c7-ac01-7b4ae870a88f",
+    "patch_length": 72,
+    "user": "Fatima Aliyeva"
+  },
+  {
+    "time_utc": "2022-08-24T17:04:21.282Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 357,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:04:25.414Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:05:01.598Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 96,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:05:02.410Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 373,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:05:22.646Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 334,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:05:25.770Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 77,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:15:58.782Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 82,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:01.186Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 64,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:03.910Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:07.138Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:07.178Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 80,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:12.138Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:12.182Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 72,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:38.470Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:38.510Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:44.578Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:44.634Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 66,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:48.614Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 81,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:51.126Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 65,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:16:58.330Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 73,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:17:06.150Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 68,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:03.891Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 1623,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:11.931Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 68,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:21.991Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 81,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:24.127Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 80,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:39.387Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 58,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:45.855Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 57,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:51.011Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 62,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:27:59.623Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 53,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:28:46.675Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 60,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:29:11.031Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 52,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:30:31.875Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 59,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:30:35.615Z",
+    "account_id": "a8144011-78be-4140-b591-543888eeb3ea",
+    "patch_length": 51,
+    "user": "Haziq Bullah"
+  },
+  {
+    "time_utc": "2022-08-24T17:31:24.574Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 76,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:32:04.730Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 84,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:32:06.066Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 89,
+    "user": "Peter Brown"
+  },
+  {
+    "time_utc": "2022-08-24T17:32:09.882Z",
+    "account_id": "98e02c6e-39e6-4b6b-8451-e49efd06e764",
+    "patch_length": 75,
+    "user": "Peter Brown"
+  }
+]
